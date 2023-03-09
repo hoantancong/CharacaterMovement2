@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.3",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "629d4a5e-31eb-4e82-a227-9b3e4fbf49c1",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "8bfbd": {
+      "importer": "gltf-animation",
+      "uuid": "629d4a5e-31eb-4e82-a227-9b3e4fbf49c1@8bfbd",
+      "displayName": "",
+      "id": "8bfbd",
+      "name": "midair.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.4166666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "16b2a": {
+      "importer": "gltf-scene",
+      "uuid": "629d4a5e-31eb-4e82-a227-9b3e4fbf49c1@16b2a",
+      "displayName": "",
+      "id": "16b2a",
+      "name": "common_people@jump-float.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.4166666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "midair",
+            "from": 0,
+            "to": 1.4166666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "629d4a5e-31eb-4e82-a227-9b3e4fbf49c1@16b2a",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "629d4a5e-31eb-4e82-a227-9b3e4fbf49c1@16b2a"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}
